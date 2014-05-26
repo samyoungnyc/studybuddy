@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface CalendarViewController : UITableViewController
-- (IBAction)logout:(id)sender;
+- (IBAction)LogOut:(id)sender;
+
 
 @end

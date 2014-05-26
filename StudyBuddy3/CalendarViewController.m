@@ -71,4 +71,6 @@
         [segue.destinationViewController setHidesBottomBarWhenPushed:YES];
     }
 }
+- (IBAction)LogOut:(id)sender {
+}
 @end
